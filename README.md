@@ -1,5 +1,7 @@
 # bigint-optimized
 
+This is home assignment from my university's C++ course.
+
 **SO** and **CoW** optimizations are implemented in uint_vector, which is used in big_integer as a storage.
 
 Small String(SO for string): https://blogs.msmvps.com/gdicanio/2016/11/17/the-small-string-optimization
